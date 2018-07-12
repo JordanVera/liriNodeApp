@@ -30,9 +30,10 @@ function getTweets(){
                 tweetCount ++
                 let timeFormat = luxon.DateTime.fromFormat(element.created_at, 'EEE MMM dd HH:mm:ss ZZZ yyyy');
                 timeFormat = timeFormat.toLocaleString(luxon.DateTime.DATETIME_FULL);
-                console.log(wrap(`${timeFormat}: 
-                 ${element.text}
-                
+                console.log(wrap(
+chalk`{green ${timeFormat}:} 
+${element.text}
+
                 `));
             });
         }
@@ -84,7 +85,7 @@ chalk`
     });
 };
 
-function doThis(){
+function doIt(){
     fs.readFile('./random.txt', 'utf8', function(error, data){
         if(error){
             console.log(error);
@@ -107,7 +108,7 @@ switch (command) {
     getMovie(query);
     break;
     case 'do-what-it-says': 
-    doThis();
+    doIt();
     break;
     default: return console.log('that is not an accepted input');
 }
