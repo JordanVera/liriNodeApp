@@ -1,7 +1,7 @@
-! (./media/tweets.png)
+! (.media/tweets.png)
 
-! (./media/spotify.png)
+! (.media/spotify.png)
 
-! (./media/movie.png)
+! (.media/movie.png)
 
-! (./media/doSomething.png)
+! (.media/doSomething.png)
