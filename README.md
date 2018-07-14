@@ -1,7 +1,7 @@
-! (media/tweets.png)
+! [twitter function] (media/tweets.png)
 
-! (media/spotify.png)
+! [spotify function] (media/spotify.png)
 
-! (media/movie.png)
+! [movie function] (media/movie.png)
 
-! (media/doSomething.png)
+! [random function] (media/doSomething.png)
