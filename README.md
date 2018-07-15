@@ -1,7 +1,11 @@
-! [twitter function] (../media/tweets.png)
+twitter f(x)
+! [twitter function] (https://github.com/JordanVera/liriNodeApp/blob/master/media/tweets.png)
 
-! [spotify function] (../media/spotify.png)
+spotify f(x)
+! [spotify function] (https://github.com/JordanVera/liriNodeApp/blob/master/media/spotify.png)
 
-! [movie function] (../media/movie.png)
+movie f(x)
+! [movie function] (https://github.com/JordanVera/liriNodeApp/blob/master/media/movie.png)
 
-! [random function] (../media/doSomething.png)
+do f(x)
+! [random function] (https://github.com/JordanVera/liriNodeApp/blob/master/media/doSomething.png)
